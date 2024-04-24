@@ -1,6 +1,5 @@
 Output images:
 
-<br>
 ![Caesar Cipher](https://github.com/RuhiA03/Encryption_Techniques_Simulation_mmsr/assets/131166322/6bb66598-68e3-4059-ba3d-376ce19b0445)
 <br>
 
@@ -13,5 +12,6 @@ Output images:
 ![Playfair Cipher](https://github.com/RuhiA03/Encryption_Techniques_Simulation_mmsr/assets/131166322/039d8d0c-9ac9-459a-b89e-ce511b1bac33)
 
 <br>
+
 ![Vigenere Cipher](https://github.com/RuhiA03/Encryption_Techniques_Simulation_mmsr/assets/131166322/c051ffb7-0599-41f1-b92b-a7a5a07b9ef0)
 
